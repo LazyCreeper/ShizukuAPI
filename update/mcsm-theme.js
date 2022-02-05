@@ -5,8 +5,8 @@ var ver2 = {
 	"twopinktext": "",
     "vivid":"1.1",
     "vividtext":"",
-    "summer":"1.2",
-    "summertext":"1. 兼容MCSM 9.1<br>2. 修复一些细节问题",
+    "summer":"1.3",
+    "summertext":"1. 兼容MCSM 9.2",
 	"SakuraPanel":"1.0",
 	"SakuraPanelText":"",
 }
