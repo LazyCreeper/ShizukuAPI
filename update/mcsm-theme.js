@@ -5,8 +5,8 @@ var ver2 = {
 	"twopinktext": "",
     "vivid":"1.1",
     "vividtext":"",
-    "summer":"1.3",
-    "summertext":"1. 兼容MCSM 9.2<br>2. 给终端换了套字体<br>3. 终端改为透明背景<br>4. 新增主题设置文件，在<code>/static/setting.css</code>",
+    "summer":"2.0",
+    "summertext":"1. 主题更名为二次元主题<br>2. 添加更多主题设置，在<code>/static/setting.css</code><br>3. 你可以使用此设置创建属于自己的皮肤",
 	"SakuraPanel":"1.0",
 	"SakuraPanelText":"",
 }
