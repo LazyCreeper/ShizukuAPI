@@ -5,8 +5,8 @@ var ver2 = {
 	"twopinktext": "",
     "vivid":"1.1",
     "vividtext":"",
-    "summer":"2.1",
-    "summertext":"1. 支持MCSM 9.3<br>2. 字体由鸿蒙换成MiSans<br>3. 可能修复终端字体问题<br>4. 主题设置文件新增了一些设置，请及时前往主题发布页查看并添加",
+    "summer":"2.3",
+    "summertext":"1. 更新普通用户界面<br> 2. 修复终端字体<br>3. 新增文件管理分页功能<br>4. 优化一些细节问题",
 	"SakuraPanel":"1.0",
 	"SakuraPanelText":"",
 }
